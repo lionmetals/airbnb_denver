@@ -40,6 +40,4 @@ Screenshot of the .csv file I sent over to my friend detailing the 100 highest a
 <img width="910" alt="Screenshot 2023-01-05 at 12 54 15 PM" src="https://user-images.githubusercontent.com/114360846/210878298-6fa173bc-6587-4120-91e0-9720c4a74b5f.png">
 
 <h2>Conclusion</h2>
-My friend used these lists to offer his cleaning services to <i><b>seven</b></i> new clients. He found this list "super helpful" and "a really efficient way to source new clients." 
-<br><br>
-<a href="https://www.youtube.com/watch?v=CHb-QvGcRjw&t=53s"> Inspiration for this Project</a> 
+My friend used the lists I generated to find <i><b>*twelve*</b></i> new clients to offer his services to. He found this list "super helpful" and "a really efficient way to source new clients."
